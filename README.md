@@ -15,7 +15,5 @@ Hi there! 👋 I'm Bigyan Basnet<br><br>I'm a CSIT student passionate about tech
 ---
 [![](https://visitcount.itsvg.in/api?id=Bigyanhub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=your-username)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
