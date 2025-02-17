@@ -1,5 +1,14 @@
-# 💫 About Me:
-Hi there! 👋 I'm Bigyan Basnet<br><br>I'm a CSIT student passionate about technology and software development. I love building things, solving problems, and exploring new ideas in the world of programming.<br><br>This is where I share my projects, ideas, and whatever I find interesting. Feel free to look around! 🚀
+# 💫 About Me
+
+**Hi, 👋 I'm Bigyan Basnet.**  
+
+I'm a full-stack developer from Nepal, currently studying BSc CSIT. I work with React and Node.js, constantly learning and improving as I build projects. I enjoy solving problems, breaking things (and fixing them), and exploring how technology shapes the **WEB**.  
+
+This is where I share my projects, ideas, and whatever I find interesting. Feel free to look around!  
+
+Check out my work, and let’s connect! 🚀  
+
+
 
 
 ## 🌐 Socials:
